@@ -1,0 +1,28 @@
+.skills{
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  max-width: 65rem;
+  margin: 0 auto;
+  height: 100vh;
+  top: 54vh;
+  color: white;
+}
+
+.head{
+  color: rgb(190, 190, 19);
+}
+
+
+@media screen and (max-width:840px){
+  .anime{
+right: 5vw;
+  }
+}
+
+
+@media screen and (max-width:840px){
+  .about{
+right: 10vw;
+  }
+}

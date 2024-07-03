@@ -1,0 +1,32 @@
+.skillset{
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  top: 100vh;
+}
+
+.react{
+  width: 90px;
+  height: 70px;
+}
+
+.set{
+  position: relative;
+  width: 800px;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px rgb(164, 164, 77);
+}
+
+.skill{
+  position: absolute;
+  z-index: 1;
+  left: 35rem;
+  /* opacity: transparent; */
+  color: rgb(165, 156, 156);
+  top: -5rem;
+}
+
+.text{
+  position: relative;
+  top: 20px;
+}
