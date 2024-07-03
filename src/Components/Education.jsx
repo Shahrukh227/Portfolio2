@@ -22,7 +22,7 @@ function Education() {
 
     <VerticalTimelineElement class='vertical-timeline-elemet' iconStyle={{background:"#000" , color:"#FFFF00"}}
     icon={<FaUserGraduate />} date='2009'>
-<h3 class={css.text}>Little Angles English Medium High School</h3>
+<h3 class={css.text}>Little Angels English Medium High School</h3>
     </VerticalTimelineElement>
   </VerticalTimeline>
     </section>
