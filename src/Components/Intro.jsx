@@ -6,7 +6,7 @@ import front from "../../public/front.jpg"
 function Intro() {
   return (
     <>
-    <section class={css.into}>
+    <section class={css.into} id='home'>
     <div class={css.intro}>
     <h4>Hello,</h4>
     <h1>I'm <span class={css.name}>Shahrukh Khan</span></h1>

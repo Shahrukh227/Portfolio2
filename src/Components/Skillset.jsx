@@ -11,7 +11,7 @@ import css1 from "../../public/css.png"
 
 function Skillset() {
   return (
-    <section class={css.skillset}>
+    <section class={css.skillset} id='skills'>
        <span class={`${css.skill} fs-1 fw-bolder`}>Skills :</span>
 <div class={css.set}>
   <div class="list-group">

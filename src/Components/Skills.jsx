@@ -4,7 +4,7 @@ import anime from "../../public/sp5JPikmlA.json"
 
 function Skills() {
   return (
-    <div class={css.skills}>
+    <div class={css.skills} id="about">
       <div class="container col-xxl-8 px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       <div style={{width : "450px"}}>

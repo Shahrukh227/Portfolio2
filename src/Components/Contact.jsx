@@ -3,7 +3,7 @@ import css from "../Style/Contact.module.css"
 
 const Contact = () => {
   return (
-    <section class={css.contact}>
+    <section class={css.contact} id="contact">
   <form class={css.form}>
     <h1 class={css.head}>ContactMe</h1>
 <p>Please fill out the form below to discuss any work opportunities</p>

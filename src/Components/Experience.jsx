@@ -6,7 +6,7 @@ import react2 from "../../public/program2.png"
 const Experience = () => {
   return (
 
-    <section class={css.experience}>
+    <section class={css.experience} id="experience">
     <span class={`${css.text} fs-1 fw-bolder`}>Experience :</span>
    <div class={`row row-cols-1 row-cols-sm-2 g-2`}>
     <div class={css.box1}>

@@ -7,8 +7,9 @@
   flex-direction: column;
   justify-content: center;
   position: relative;
-  top: 15rem;
-  left: 5rem;
+  top: 20rem;
+  left: 0rem;
+  /* border: 1px solid yellow; */
 }
 
 .intro{

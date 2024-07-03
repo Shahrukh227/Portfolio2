@@ -6,7 +6,7 @@ import css from "../Style/Education.module.css"
 
 function Education() {
   return (
-    <section class={css.education}>
+    <section class={css.education} id='education'>
 <VerticalTimeline lineColor="#000">
     <VerticalTimelineElement class='vertical-timeline-elemet' iconStyle={{background:"#000" , color:"#FFFF00"}}
     icon={<FaUserGraduate />} date='2011-2014'>
